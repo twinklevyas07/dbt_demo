@@ -3,6 +3,6 @@ version: 2
 sources:
   - name: demo
     database: db_demo
-    schema: schema_db
+    schema: schema_demo 
     tables:
       - name: weather
